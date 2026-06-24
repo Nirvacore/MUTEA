@@ -34,6 +34,8 @@ All research reports are in [`docs/research/`](docs/research/).
 - [002 — Supply Chain Intelligence](docs/research/002-supply-chain.md)
 - [003 — Hojicha & Genmaicha Intelligence](docs/research/003-hojicha-genmaicha.md)
 - [004 — Thai Import Regulatory Pathway](docs/research/004-thai-import-regulatory.md)
+- [005 — L-Theanine Deep Dive](docs/research/005-l-theanine-deep-dive.md)
+- [006 — Brand Competitive Analysis](docs/research/006-brand-competitive-analysis.md)
 
 ## Brand
 
