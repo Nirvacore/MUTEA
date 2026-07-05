@@ -36,6 +36,8 @@ All research reports are in [`docs/research/`](docs/research/).
 - [004 — Thai Import Regulatory Pathway](docs/research/004-thai-import-regulatory.md)
 - [005 — L-Theanine Deep Dive](docs/research/005-l-theanine-deep-dive.md)
 - [006 — Brand Competitive Analysis](docs/research/006-brand-competitive-analysis.md)
+- [007 — OEM & Private Label Mapping](docs/research/007-oem-mapping.md)
+- [008 — Thai Market Deep Dive](docs/research/008-thai-market-deep-dive.md)
 
 ## Brand
 
