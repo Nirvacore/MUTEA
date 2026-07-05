@@ -38,6 +38,8 @@ All research reports are in [`docs/research/`](docs/research/).
 - [006 — Brand Competitive Analysis](docs/research/006-brand-competitive-analysis.md)
 - [007 — OEM & Private Label Mapping](docs/research/007-oem-mapping.md)
 - [008 — Thai Market Deep Dive](docs/research/008-thai-market-deep-dive.md)
+- [009 — Content Marketing Strategy](docs/research/009-content-marketing-strategy.md)
+- [010 — Thai Social Media Landscape Audit](docs/research/010-social-media-audit.md)
 
 ## Brand
 
