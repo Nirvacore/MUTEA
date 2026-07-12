@@ -40,6 +40,7 @@ All research reports are in [`docs/research/`](docs/research/).
 - [008 — Thai Market Deep Dive](docs/research/008-thai-market-deep-dive.md)
 - [009 — Content Marketing Strategy](docs/research/009-content-marketing-strategy.md)
 - [010 — Thai Social Media Landscape Audit](docs/research/010-social-media-audit.md)
+- [011 — Thai Herbal Tea: The "Start Now" Path](docs/research/011-thai-herbal-tea.md)
 
 ## Brand
 
