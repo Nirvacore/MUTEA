@@ -41,6 +41,7 @@ All research reports are in [`docs/research/`](docs/research/).
 - [009 — Content Marketing Strategy](docs/research/009-content-marketing-strategy.md)
 - [010 — Thai Social Media Landscape Audit](docs/research/010-social-media-audit.md)
 - [011 — Thai Herbal Tea: The "Start Now" Path](docs/research/011-thai-herbal-tea.md)
+- [012 — Global Botanical Atlas & The Multi-Format Model](docs/research/012-global-botanical-atlas.md) *(Phase 4-5 — map, not plan)*
 
 ## Brand
 
