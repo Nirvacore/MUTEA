@@ -47,6 +47,7 @@ All research reports are in [`docs/research/`](docs/research/).
 
 - [Business Description (Yunomi Application)](docs/brand/business-description.md)
 - [Product Architecture](docs/brand/product-architecture.md)
+- [OEM Outreach Kit (ภาษาไทย)](docs/brand/oem-outreach-th.md) — ข้อความติดต่อโรงงาน + ตารางเปรียบเทียบ
 
 ## Target Audience
 
