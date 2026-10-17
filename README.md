@@ -1,10 +1,20 @@
-# Mu Tea
+# MUTEA
 
-A gentle lifestyle brand based in Thailand, using Japanese tea as a bridge for mindfulness and slow living.
+MUTEA is the **tea branch of MU Universe** — a broader botanical living world built around honest sourcing, the right format for each material, useful products, and clear knowledge.
+
+MUTEA remains the place for tea culture, tea sourcing, tea products, and tea ritual. It does **not** define the full scope of MU Universe.
 
 ## Philosophy
 
 "Void to Void" — Connection before commerce. Systems that let humans remain human.
+
+## Parent World
+
+**MU Universe** covers botanicals beyond tea: whole dried materials, cut botanicals, powders, simple blends, spices, food uses, knowledge, sourcing, testing, and later formats only when justified by the material, evidence, regulation, and real demand.
+
+The core rule is: **format follows the material, not marketing.**
+
+See [`docs/MU_UNIVERSE_HANDOFF.md`](docs/MU_UNIVERSE_HANDOFF.md).
 
 ## Collections
 
@@ -14,7 +24,7 @@ A gentle lifestyle brand based in Thailand, using Japanese tea as a bridge for m
 | **Mu Space** | Meditative, ritual, still | Samidori Ceremonial, Gyokuro, Okumidori Ceremonial |
 | **Mu Sun** | Bright, everyday, warm | Spring Blend Matcha, Genmaicha, Sencha |
 
-## 5-Phase Business Model
+## MUTEA Business Path
 
 1. Curated tea via Yunomi/Obubu wholesale
 2. Subscription boxes
@@ -22,7 +32,7 @@ A gentle lifestyle brand based in Thailand, using Japanese tea as a bridge for m
 4. Workshops & Retreats
 5. International community
 
-## Success Metric
+## MUTEA Success Metric
 
 > 10 people saying "This tea helped me return home to myself"
 
@@ -55,4 +65,6 @@ Women 28-55, burnout professionals, mindfulness-curious individuals seeking calm
 
 ## Anti-overengineering Rule
 
-Do NOT build ERP. Do NOT over-engineer. Connection before commerce.
+Do NOT build a parallel ERP or duplicate Nirva business infrastructure. Do NOT over-engineer. Connection before commerce.
+
+MU Universe should reuse Nirva Buy, Sell, Library, AI, Work, Connect, and Trust where those capabilities already exist.
